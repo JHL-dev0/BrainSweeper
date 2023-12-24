@@ -1,7 +1,7 @@
 # BrainSweeper
 생각정리프레임워크인 GTD를 활용한 안드로이드 앱입니다.
 
-![image](https://github.com/JHL-dev0/BrainSweeper/assets/145732685/32bc7826-eb4b-4088-9d1d-1d09c145854d)
+![image](https://github.com/JHL-dev0/BrainSweeper/assets/145732685/32bc7826-eb4b-4088-9d1d-1d09c145854d width="50%")
 
 프로젝트 모듈 설계는 SharedVeiwModel을 중심으로 한 데이터 공유 구조를 나타냅니다. 
 여기서 Shared Model은 여러 프래그먼트 간에 데이터를 공유하는 중앙 집중형 저장소의 역할을 합니다. 각 프래그먼트는 이 모델을 통해 데이터를 주고받으며, 앱의 다른 부분과 통합적으로 데이터를 관리하고 업데이트할 수 있습니다.
